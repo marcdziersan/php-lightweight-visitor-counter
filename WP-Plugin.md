@@ -10,7 +10,7 @@ Diese Datei ist der Einstiegspunkt für WordPress. Sie kümmert sich um die Akti
  * Plugin Name:       WP Lightweight Visitor Counter
  * Description:       Ein ultra-leichtgewichtiges, DSGVO-konformes Analytics-Plugin ohne externe Abhängigkeiten.
  * Version:           1.0.0
- * Author:            Dein Name
+ * Author:            Marcus Dziersan
  * Text Domain:       wp-lightweight-counter
  */
 
